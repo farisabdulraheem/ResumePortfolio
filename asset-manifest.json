@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ResumePortfolio/static/css/main.33efb542.chunk.css",
+    "main.js": "/ResumePortfolio/static/js/main.db045772.chunk.js",
+    "main.js.map": "/ResumePortfolio/static/js/main.db045772.chunk.js.map",
+    "runtime-main.js": "/ResumePortfolio/static/js/runtime-main.1bb40d7d.js",
+    "runtime-main.js.map": "/ResumePortfolio/static/js/runtime-main.1bb40d7d.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/ResumePortfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.ee233241.chunk.js": "/ResumePortfolio/static/js/2.ee233241.chunk.js",
+    "static/js/2.ee233241.chunk.js.map": "/ResumePortfolio/static/js/2.ee233241.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/ResumePortfolio/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/ResumePortfolio/static/js/3.f0e5a195.chunk.js.map",
+    "index.html": "/ResumePortfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/ResumePortfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.33efb542.chunk.css.map": "/ResumePortfolio/static/css/main.33efb542.chunk.css.map",
+    "static/js/2.ee233241.chunk.js.LICENSE.txt": "/ResumePortfolio/static/js/2.ee233241.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/ResumePortfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/ResumePortfolio/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/ResumePortfolio/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/ResumePortfolio/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/ResumePortfolio/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/ResumePortfolio/static/media/emotion.e92e314a.jpeg",
+    "static/media/farisabdulraheem.ef888fdb.pdf": "/ResumePortfolio/static/media/farisabdulraheem.ef888fdb.pdf",
+    "static/media/style.css": "/ResumePortfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/ResumePortfolio/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/ResumePortfolio/static/media/leaf.4c15d6eb.png",
+    "static/media/logo.1795dfd5.png": "/ResumePortfolio/static/media/logo.1795dfd5.png",
+    "static/media/suicide.b72f1f9f.png": "/ResumePortfolio/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bb40d7d.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.ee233241.chunk.js",
+    "static/css/main.33efb542.chunk.css",
+    "static/js/main.db045772.chunk.js"
+  ]
+}
